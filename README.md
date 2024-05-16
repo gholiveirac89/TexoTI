@@ -1,5 +1,7 @@
-#Automação
-Automação de Testes E2E e api
+# Automação
 
-#Introdução
-Realiazado testes E2E e de API no endereço https://jsonplaceholder.typicode.com
+Automação de Testes E2E e API
+
+## Introdução
+
+Este projeto consiste na automação de testes E2E (End-to-End) e de API no endereço [JSONPlaceholder](https://jsonplaceholder.typicode.com).
